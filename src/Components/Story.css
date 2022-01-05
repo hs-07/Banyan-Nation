@@ -1,0 +1,33 @@
+.story-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 3rem;
+  font-family: "Mukta", sans-serif;
+}
+
+.hStory {
+  margin-bottom: 0.5rem;
+  font-weight: bolder;
+}
+
+iframe {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  margin-top: 2rem;
+  width: 70%;
+}
+
+@media screen and (max-width: 960px){
+
+  iframe {
+    width: 80%;
+    height: 47%;
+  }
+    .story-para{
+        margin: 0rem 1.5rem;
+            text-align: center;
+    }
+}
