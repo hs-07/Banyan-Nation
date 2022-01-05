@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Banyan-Nation-clone/static/css/main.2e1c0f53.css",
+    "main.js": "/Banyan-Nation-clone/static/js/main.ec485377.js",
+    "static/js/787.c3edb8ef.chunk.js": "/Banyan-Nation-clone/static/js/787.c3edb8ef.chunk.js",
+    "index.html": "/Banyan-Nation-clone/index.html",
+    "main.2e1c0f53.css.map": "/Banyan-Nation-clone/static/css/main.2e1c0f53.css.map",
+    "main.ec485377.js.map": "/Banyan-Nation-clone/static/js/main.ec485377.js.map",
+    "787.c3edb8ef.chunk.js.map": "/Banyan-Nation-clone/static/js/787.c3edb8ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1c0f53.css",
+    "static/js/main.ec485377.js"
+  ]
+}
